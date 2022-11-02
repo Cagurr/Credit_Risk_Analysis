@@ -2,8 +2,10 @@
 
 ## Overview of Credit Risk Analysis
 
-[Insert Summary Here]
- 
+Fast Lending, a peer-to-peer lending company, wants to use machine learning to predict credit risk.  Management believes that this will provide a faster, more streamlined loan experience.  It is also thought that machine learning will lead to a more accurate identification of good candidates for loans and result in lower default rates.
+
+Fast lending wants me to assist the lead machine learning analyst to develop six machine learning models to predict credit risk.  We will use techniques such as sampling and boosting to make the most of our models and accomplish our task.  
+
 ### Resources
 
 * Resources:  LoadStats2019.csv
@@ -15,14 +17,14 @@
 
 ![m1.png](Resources/m1.png)
 
-*  Balanced Accuracy Score:  0.63
+*  Balanced Accuracy Score:  0.6337390365455198
 *  Precision and Recall Score:  0.99 and 0.68
 
 ## Machine Learning Model #2:  SMOTE Oversampling
 
 ![m2.png](Resources/m2.png)
 
-*  Balanced Accuracy Score:  0.63  
+*  Balanced Accuracy Score:  0.6285619895975602
 
 *  Precision and Recall Score:  0.99 and 0.66
 
@@ -30,7 +32,7 @@
 
 ![m3.png](Resources/m3.png)
 
-*  Balanced Accuracy Score:  0.63
+*  Balanced Accuracy Score:  0.6285619895975602
 
 *  Precision and Recall Score:  0.99 and 0.44
 
@@ -38,7 +40,7 @@
 
 ![m4.png](Resources/m4.png)
 
-*  Balanced Accuracy Score:  0.51
+*  Balanced Accuracy Score:  0.5110319445955256
 
 *  Precision and Recall Score:  0.99 and 0.57
 
@@ -46,7 +48,7 @@
 
 ![m5.png](Resources/m5.png)
 
-*  Balanced Accuracy Score:  0.79
+*  Balanced Accuracy Score:  0.7877672625306695
 
 *  Precision and Recall Score:  0.99 and 0.91
 
@@ -54,15 +56,10 @@
 
 ![m6.png](Resources/m6.png)
 
-*  Balanced Accuracy Score:  0.93
+*  Balanced Accuracy Score:  0.925427358175101
 
 *  Precision and Recall Score:  0.99 and 0.94
 
 ## Summary of Credit Risk Analysis
 
-[Insert Summary Here]
-
-## Credit Risk Analysis Code Snippets
-
-### Deliverable #2:
-![d--.png](Resources/--.png)
+The Easy Ensemby AdaBoost Classifier model performed the best of the six models.  We can make this determination based on comparing each model's balanced accuracy score, where higher scores are considered better.

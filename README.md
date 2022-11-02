@@ -4,7 +4,7 @@
 
 Fast Lending, a peer-to-peer lending company, wants to use machine learning to predict credit risk.  Management believes that this will provide a faster, more streamlined loan experience.  It is also thought that machine learning will lead to a more accurate identification of good candidates for loans and result in lower default rates.
 
-Fast lending wants me to assist the lead machine learning analyst to develop six machine learning models to predict credit risk.  We will use techniques such as sampling and boosting to make the most of our models and accomplish our task.  
+Fast Lending wants me to assist the lead machine learning analyst to develop six machine learning models to predict credit risk.  We will use techniques such as sampling and boosting to make the most of our models and accomplish our task.  
 
 ### Resources
 
